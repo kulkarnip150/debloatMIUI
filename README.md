@@ -15,7 +15,7 @@ It will start process.
 -Don't move cursor after running script. It will stop processing
 ```
 #
-If some one interest in  this then, Contribution is appropriate. Just pull request with solution for your problem
+If some one interest in  this then, Contributions are welcome. Just pull request with solution for your problem
 #
 ```diff
 Future work and todo:
