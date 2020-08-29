@@ -1,7 +1,6 @@
 # debloatMIUI
 debloat any MIUI(xiaomi) phone with one script. One script to rule them all :fire:	:fire:	:fire:	
 
-### work in progress
 
 ```install python3 and pyautogui```
 
@@ -21,4 +20,8 @@ If some one interest in  this then, Contributions are welcome. Just pull request
 Future work and todo:
 +	doing without pyautogui
 +	adding support for more phone companies which give lot of bloat and rule them all
+```
+
+```diff
+!work in progress
 ```
