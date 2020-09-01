@@ -12,6 +12,7 @@ debloat any MIUI(xiaomi) phone with one script. One script to rule them all :fir
 It will start process. 
 ```diff
 -Don't move cursor after running script. It will stop processing
+-Currently script only work on windows
 ```
 #
 If some one interest in  this then, Contributions are welcome. Just pull request with solution for your problem
