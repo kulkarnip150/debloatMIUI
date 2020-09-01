@@ -20,7 +20,7 @@ If some one interest in  this then, Contributions are welcome. Just pull request
 Future work and todo:
 +	doing without pyautogui
 +	adding support for more phone companies which give lot of bloat and rule them all
-+ adding support for linux and mac
++   adding support for linux and mac
 ```
 
 ```diff
