@@ -4,7 +4,7 @@ debloat any MIUI(xiaomi) phone with one script. One script to rule them all :fir
 
 ```install python3 and pyautogui```
 
-```turn on developer mode in android and connect devices to computer```
+```turn on developer mode in android and connect device to computer```
 
 ```run autoremoveapps.py```
 
