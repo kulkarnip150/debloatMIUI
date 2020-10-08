@@ -19,6 +19,11 @@ for i in lines:
     print(i)
     pyautogui.write(i, interval=0.01)
     pyautogui.press("enter")
-
+pyautogui.write("exit")
+pyautogui.press("enter")
+print("device will reboot in 2 sec")
+time.sleep(2)
+pyautogui.write("adb reboot", interval=0.01)
+pyautogui.press("enter")
 endTime = time.time()
 print(f"Total time {endTime - startTime}")
