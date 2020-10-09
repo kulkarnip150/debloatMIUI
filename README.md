@@ -46,8 +46,11 @@ It will start process.
 ---
 ### shell
 ```turn on developer mode in android and connect device to computer```
+
 ```chmod 500 autoremoveapps.sh```
+
 ```run autoremoveapps.sh in terminal```
+
 ```Wait till end. Phone will reboot```
 
 ---
